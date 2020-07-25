@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    margin-top: 70px;  
+    outline: none;
+    background: linear-gradient(80deg, rgb(231, 44, 75), rgb(240, 141, 157));
+}
+#list {
+    font-size: 25px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn {
+    /* text-align: justify; */
+    margin: 30px;
+}
+.txt {
+    border: 4px solid black;
+    border-radius: 20px;
+    font-size: 45px;
+    outline: none;
+
+}
+button {
+    border-radius: 20px;
+    border-width: thick;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background: rgb(207, 204, 204);
+    outline: none;
+}
+
+button:hover {
+    background: ivory;
+}
